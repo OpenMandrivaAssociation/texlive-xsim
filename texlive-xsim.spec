@@ -1,6 +1,6 @@
 Name:		texlive-xsim
 Version:	61988
-Release:	1
+Release:	2
 Summary:	eXercise Sheets IMproved
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xsim

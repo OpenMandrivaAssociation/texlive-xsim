@@ -3,7 +3,7 @@ Version:	61988
 Release:	2
 Summary:	eXercise Sheets IMproved
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xsim
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xsim
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xsim.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xsim.doc.r%{version}.tar.xz
